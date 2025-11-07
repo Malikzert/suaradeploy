@@ -7,6 +7,5 @@ scikit-learn==1.4.2
 joblib==1.4.2
 soundfile==0.12.1
 audioread==3.0.1
-numba==0.59.1
 matplotlib==3.9.0
 SpeechRecognition==3.11.0
